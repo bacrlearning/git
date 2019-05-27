@@ -1,3 +1,4 @@
+#27/5 first adjust hello.R
 #27/5 firt commit to github
 # Thu ham nano filename xem nao (21/5)
 # Them hello ngay 21/5
